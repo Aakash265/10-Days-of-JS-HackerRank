@@ -12,22 +12,18 @@ btn1.onclick = function() {
 
 btnSum.onclick = function() {
     res.innerHTML += "+";
-    operatorsSeq = "+";
 }
 
 btnSub.onclick = function() {
     res.innerHTML += "-";
-    operatorsSeq = "-";
 }
 
 btnMul.onclick = function() {
     res.innerHTML += "*";
-    operatorsSeq = "*";
 }
 
 btnDiv.onclick = function() {
     res.innerHTML += "/";
-    operatorsSeq = "/";
 }
 
 btnEql.onclick = function() {
